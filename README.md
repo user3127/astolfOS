@@ -1,2 +1,4 @@
 # astolfOS
-arch-based linux distrobution created by members of the ALC discord (like myself)
+arch-based linux distribution created by members of the ALC discord (like myself)
+
+:3
